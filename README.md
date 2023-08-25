@@ -1,2 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/57887065550oqgby?svg=true)](https://ci.appveyor.com/project/ABC15986/autotest2-3)
 [![Java CI with Gradle](https://github.com/RadikABC/autotest2.3/actions/workflows/gradle.yml/badge.svg)](https://github.com/RadikABC/autotest2.3/actions/workflows/gradle.yml)
