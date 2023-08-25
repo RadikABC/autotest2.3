@@ -19,7 +19,7 @@ public class RestTest {
 // Проверки
                 .then()
                 .statusCode(200)
-                .body("data", equalTo("some data"))
+                .body(equalTo("some data"))
         ;
     }
 
